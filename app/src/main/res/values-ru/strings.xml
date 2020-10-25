@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d_f_info_title">О приложении</string>
+    <string name="d_f_info_about_app">Приложение ScanPad</string>
+
+    <string name="upload_from_file">Загрузить файл</string>
+    <string name="save_to_file">Сохранить в файл</string>
+    <string name="clear_results">Сбросить результаты</string>
+
+    <string name="about_app">О приложении</string>
+
+    <string name="toast_msg_scanner_name_exception">Ошибка имени сканера: </string>
+    <string name="toast_msg_exception">Ошибка: </string>
+    <string name="toast_msg_scanner_properties_error">Не удалось настроить сканнер</string>
+    <string name="toast_msg_scanner_unavailable">Сканнер недоступен</string>
+    <string name="toast_msg_file_saved">Файл сохранен</string>
+
+    <string name="alert_dialog_yes">Да</string>
+    <string name="alert_dialog_no">Нет</string>
+    <string name="alert_dialog_reset">Сбросить результаты?</string>
+    <string name="alert_dialog_save">Сохранить результаты?</string>
+    <string name="alert_dialog_upload">Перезагрузить результаты?</string>
+</resources>

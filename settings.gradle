@@ -1,0 +1,4 @@
+include ':alienapi'
+include ':database'
+include ':app'
+rootProject.name = "ScanPad_Alien"

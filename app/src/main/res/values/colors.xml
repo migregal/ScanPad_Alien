@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B2BCC6</color>
+    <color name="colorPrimaryDark">#47525e</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="foreground_on_dark">#FFFFFF</color>
+    <color name="foreground_on_light">#000000</color>
+
+    <color name="nav_menu_background">#1d2d3d</color>
+    <color name="nav_menu_foreground">@color/foreground_on_dark</color>
+    <color name="drawer_navigation_header_background">#273445</color>
+    <color name="drawer_navigation_header_foreground">@color/foreground_on_dark</color>
+
+    <color name="dialog_fragment_title">#000000</color>
+    <color name="dialog_fragment_main_text">#898989</color>
+</resources>

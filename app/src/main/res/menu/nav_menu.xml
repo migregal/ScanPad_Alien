@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/d_nav_upload_from_file"
+            android:title="@string/upload_from_file" />
+        <item
+            android:id="@+id/d_nav_save_to_file"
+            android:title="@string/save_to_file" />
+        <item
+            android:id="@+id/d_nav_clear_results"
+            android:title="@string/clear_results" />
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/d_nav_about_app"
+            android:title="@string/about_app" />
+    </group>
+
+</menu>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ScanPad</string>
+    <string name="company_name" translatable="false">Finn Flare</string>
+
+    <string name="d_f_info_title">About</string>
+    <string name="d_f_info_about_app">ScanPad App</string>
+    <string name="upload_from_file">Upload from file</string>
+    <string name="save_to_file">Save to file</string>
+    <string name="clear_results">Clear results</string>
+    <string name="about_app">About app</string>
+
+    <string name="toast_msg_scanner_name_exception">Invalid Scanner Name Exception: </string>
+    <string name="toast_msg_exception">Exception: </string>
+    <string name="toast_msg_scanner_properties_error">Failed to apply properties</string>
+    <string name="toast_msg_scanner_unavailable">Scanner unavailable</string>
+    <string name="toast_msg_file_saved">Saved</string>
+
+    <string name="alert_dialog_yes">Yes</string>
+    <string name="alert_dialog_no">No</string>
+    <string name="alert_dialog_reset">Reset results?</string>
+    <string name="alert_dialog_save">Save results?</string>
+    <string name="alert_dialog_upload">Reload results?</string>
+</resources>
